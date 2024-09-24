@@ -1,2 +1,2 @@
 # dachat
-SImple chatbot to get some insights about your data
+Simple chatbot to get some insights about your data with user database
