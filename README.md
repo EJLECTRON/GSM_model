@@ -1,2 +1,2 @@
-# dachat
-Simple chatbot to get some insights about your data with user database
+# GSM (Get Some Money) model
+Simple prediction model of S&P500 index
